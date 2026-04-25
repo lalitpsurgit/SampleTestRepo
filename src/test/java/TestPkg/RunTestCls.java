@@ -6,6 +6,7 @@ public class RunTestCls {
 		System.out.println("Test Rin from GIT");
 		System.out.println("Test Rin from GIT added newly");
 		System.out.println("Test Rin from GIT added newly newly");
+		System.out.println("Test Rin from GIT added newly newly newly");
 	}
 
 }
