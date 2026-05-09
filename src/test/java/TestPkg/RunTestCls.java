@@ -43,7 +43,7 @@ public class RunTestCls {
 		
 		System.out.println("test passed");
 		
-		wd.close();
+		//wd.close();
 		
 	}
 
